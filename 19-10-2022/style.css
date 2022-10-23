@@ -1,9 +1,9 @@
 h3{
     color: blue;
-    background-color:cyan;
+    background-color:rgb(173, 216, 230);
 }
 #color_blue{
-    color: blue;
+    color: #8c8cfa;
 }
 table, th, td {
     border:1px solid black;
